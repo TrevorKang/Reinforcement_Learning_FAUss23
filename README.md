@@ -9,3 +9,5 @@ MDP
       --Policy Improvement
       --Policy Iteration
       --Value Iteration
+
+# EX2 Monte Carlo and TD
