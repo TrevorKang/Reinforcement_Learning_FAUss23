@@ -1,13 +1,21 @@
 # Reinforcement_Learning_FAUss23
 Assignments for Lecture RL, self-use
-# Ex0 
+
+# Ex1 
 MDP
 
-# EX1 Dynamic Programming
+# EX2 Dynamic Programming
     --Grid World, naive implementation
       --Policy Evaluation
       --Policy Improvement
       --Policy Iteration
       --Value Iteration
 
-# EX2 Monte Carlo and TD
+# EX3 Monte Carlo and TD
+    Model Free Prediction
+    Naive Implementation based on Grid World
+
+# EX4 SARSA and Q-Learning
+    Model Free Control
+    Implement two algorithm based on GridWorld
+    CliffWorld to test SARSA and Q-Learning
